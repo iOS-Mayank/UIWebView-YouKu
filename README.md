@@ -19,5 +19,7 @@ Instructions
    //set the X,Y origin of CGRect to where you want the webView to appear.
 
    _webView.delegate = self;
+   
    [_webView loadYouKuVideoID:@"XMjAzOTE4MTQ4"];
+   
    [self.view addSubView:_webView];
