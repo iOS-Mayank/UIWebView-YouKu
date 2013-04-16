@@ -3,6 +3,7 @@ UIWebView-YouKu
 
 UIWebView+YouKu iOS category to simplify loading youku videos.
 
+
 Instructions
 
 1) Add these files to your project
@@ -23,3 +24,5 @@ Instructions
    [_webView loadYouKuVideoID:@"XMjAzOTE4MTQ4"];
    
    [self.view addSubView:_webView];
+   
+   The same method for youtube: git://github.com/iphonegroup/WebviewDemo.git
